@@ -89,9 +89,9 @@ header img {
 
 /* the styles for the section */
 section {
-    padding: 0 2.5% 20px 2.5%;
-	wdith: 55%;
+	width: 525px;
 	float: right;
+	padding: 0 20px 20px 20px;
 }
 section h1 {
 	font-size: 150%;
@@ -133,22 +133,22 @@ article h3 {
 }
 article img {
 	float: right;
-	max-width: 40%;
-	min-width: 150px;
 	margin: .5em 0 1em 1em;
 	border: 1px solid black;
 }
 
 /* the styles for the aside */
 aside {
-    padding: 0 0 20px 2.5%;
-	float: left;
+	width: 215px;
+	float: right;
+	padding: 0 0 20px 20px;
 }
 aside h2 {
 	color: #800000;
 	font-size: 130%;
 	padding: .5em 0 .25em 0;
 }
+
 aside h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
@@ -156,6 +156,7 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
+
 
 /* the styles for the footer */
 footer {
